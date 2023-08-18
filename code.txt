@@ -1,3 +1,4 @@
 Feature1
 Feature2
+hotfix1
 Bugfix1
